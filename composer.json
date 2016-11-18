@@ -1,0 +1,20 @@
+{
+    "name": "weinirumo/yii2-aliyunoss",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "aliyun", "OSS"],
+    "description": "yii2-aliyun-oss",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "weinirumo",
+            "email": "weinirumo@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "weini\\aliyun\\": ""
+        }
+    }
+}
